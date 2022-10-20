@@ -6,13 +6,13 @@
 </p>
 <div class="container">
   <a href="https://github.com/NzyC/Snake-Game">
-    <img src="./assets/1.jpg" alt="Logo" width="800" height="545">
+    <img src="./assets/1.jpg" alt="Logo" width="600" height="545">
   </a>
   <a href="https://github.com/NzyC/Snake-Game">
-    <img src="./assets/2.jpg" alt="Logo" width="800" height="545">
+    <img src="./assets/2.jpg" alt="Logo" width="600" height="545">
   </a>
   <a href="https://github.com/NzyC/Snake-Game">
-    <img src="./assets/3.jpg" alt="Logo" width="800" height="545">
+    <img src="./assets/3.jpg" alt="Logo" width="600" height="545">
   </a>
 </div>
 <br />
