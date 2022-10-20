@@ -1,14 +1,3 @@
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-  }
-  * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-</style>
-
 # Snake Game Clone
 ## Description
 <br />
